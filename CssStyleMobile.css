@@ -1,0 +1,47 @@
+@media screen and (max-width: 550px) {
+    nav {
+        height: 35px;
+    }
+    nav li {
+        margin: 0 3px;
+    }
+    nav a {
+        font-size: 2.8vw;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .accueil {
+        height: 300px;
+    }
+    h1 {
+        font-size: 30px;
+        padding-top: 60px;
+        margin-left: 2vw;
+    }
+    .accueil p {
+        font-size: 15px;
+        margin-left: 2vw;
+        margin-bottom: 10px;
+    }
+    .btn-imp {
+        font-size: 11px;
+        padding: 6px;
+        margin-top: 10px;
+    }
+    .b1 {
+        margin-left: 2vw;
+    }
+    .b2 {
+        margin-left: 6px;
+    }
+    .bloc-gauche-accueil {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    section {
+    padding: 40px;
+    }
+}
