@@ -132,7 +132,7 @@ h1 {
     margin-left: 10px;
 }
 .bloc-droit-accueil {
-    background-image: url(Images/accueil1.jpg);
+    background-image: url(accueil1.jpg);
     width: 60%;
     height: 100%;
 }
@@ -243,4 +243,5 @@ section {
 .bouton_p2 {
     margin-left: 25px;
     margin-bottom: 15px;
+
 }
